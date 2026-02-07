@@ -7,7 +7,7 @@ class Window_1(Column):
     def __init__(self,page:Page):
         super().__init__()
         self.page = page
-        self.page.window.icon = __file__.removesuffix("Tweets.py")+"twitter.ico"  
+        self.page.window.icon = __file__.removesuffix("Tweets.py")+"assets\\twitter.ico"  
         self.page.scroll = ScrollMode.HIDDEN
         self.page.title = "تغريدات"
         self.page.window.resizable = page.window.maximizable = False

@@ -27,7 +27,7 @@ class History:
 
     def read_history():
         try:
-            with open(__file__.removesuffix("history.py")+"history.json","r",encoding='utf-8') as f:
+            with open(__file__.removesuffix("Backend\\history.py")+"files\\history.json","r",encoding='utf-8') as f:
                 file_path = json.load(f)
                 return file_path
         except:
