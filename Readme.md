@@ -17,7 +17,7 @@
 
 # X Bot with ChatGPT API
 
-**A powerful, AI-driven desktop application to automate, manage, and enhance your X (formerly Twitter) presence using OpenAI's GPT models.**
+A powerful, AI-driven desktop application to automate, manage, and enhance your X **(formerly Twitter)** presence using OpenAI's GPT models.
 
 
 ## 📖 Overview
