@@ -2,7 +2,7 @@
 
 <img src="assets/twitter.ico" alt="Logo" width="100" height="100">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=1DA1F2&center=true&width=700&weight=800&lines=X+Bot+with+ChatGPT+API;Automated+Tweet+Generation+%26+Scheduling;AI-Powered+Content+Creation+with+Flet+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=000000&center=true&width=700&weight=800&lines=X+Bot+with+ChatGPT+API;Automated+Tweet+Generation+%26+Scheduling;AI-Powered+Content+Creation+with+Flet+UI)](https://git.io/typing-svg)
 
 
 
